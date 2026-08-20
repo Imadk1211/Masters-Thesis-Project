@@ -1,0 +1,30 @@
+Initial Dataset Exploration Report
+=================================
+
+Pima Dataset Shape: (768, 9)
+Pima Columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+
+Missing Values - Pima:
+Pregnancies                 0
+Glucose                     0
+BloodPressure               0
+SkinThickness               0
+Insulin                     0
+BMI                         0
+DiabetesPedigreeFunction    0
+Age                         0
+Outcome                     0
+dtype: int64
+
+Invalid Zero Values in Pima:
+Glucose: 5 zero values
+BloodPressure: 35 zero values
+SkinThickness: 227 zero values
+Insulin: 374 zero values
+BMI: 11 zero values
+
+Pima Target Distribution:
+Outcome
+0    500
+1    268
+Name: count, dtype: int64

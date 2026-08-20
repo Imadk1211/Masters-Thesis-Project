@@ -1,0 +1,6 @@
+Aspect,Pima Dataset
+Main purpose,Diabetes prediction
+Feature type,Numerical
+Clinical information type,"Physiological measurements such as glucose, BMI, insulin, age"
+Target variable,Outcome
+Use in this project,Main training and internal validation dataset

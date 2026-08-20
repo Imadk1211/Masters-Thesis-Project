@@ -1,0 +1,2 @@
+Dataset,Samples,Columns,Target Variable,Feature Type
+Pima Indians Diabetes Dataset,768,9,Outcome,Mostly numerical clinical measurements
